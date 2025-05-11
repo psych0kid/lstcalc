@@ -1,4 +1,4 @@
-module github.com/psych0kid/dcalculate
+module github.com/psych0kid/lstcalc
 
 go 1.21
 
